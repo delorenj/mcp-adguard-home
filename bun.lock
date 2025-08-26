@@ -3,14 +3,14 @@
   "workspaces": {
     "": {
       "dependencies": {
-        "@modelcontextprotocol/sdk": "latest",
-        "zod": "latest",
+        "@modelcontextprotocol/sdk": "^1.13.2",
+        "zod": "^3.25.67",
       },
       "devDependencies": {
-        "@biomejs/biome": "latest",
-        "@types/bun": "latest",
-        "tsup": "latest",
-        "typescript": "latest",
+        "@biomejs/biome": "2.0.6",
+        "@types/bun": "^1.2.17",
+        "tsup": "^8.5.0",
+        "typescript": "^5.8.3",
       },
     },
   },
